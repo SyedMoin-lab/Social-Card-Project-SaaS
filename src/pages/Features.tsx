@@ -20,7 +20,7 @@ const Features = () => {
               transition={{ duration: 0.5 }}
             >
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
-                Powerful Features for Professional <span className="text-green dark:text-hunter">Digital Identity</span>
+                Powerful Features for Professional <span className="text-green ">Digital Identity</span>
               </h1>
               <p className="mt-6 text-lg text-muted-foreground max-w-2xl mx-auto">
                 Discover how our comprehensive tools help you create stunning social cards that truly represent your professional brand.

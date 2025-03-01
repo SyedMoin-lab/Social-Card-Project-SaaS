@@ -20,7 +20,7 @@ const Product = () => {
               transition={{ duration: 0.5 }}
             >
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
-                Meet <span className="text-green dark:text-hunter">CardCraft</span>
+                Meet NexCard
               </h1>
               <p className="mt-6 text-lg text-muted-foreground max-w-2xl mx-auto">
                 The ultimate digital business card platform for professionals who want to make a lasting impression.

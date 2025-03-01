@@ -35,7 +35,7 @@ const HelpCenter = () => {
               transition={{ duration: 0.5 }}
             >
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
-                Help <span className="text-green dark:text-hunter">Center</span>
+                Help <span className="text-green">Center</span>
               </h1>
               <p className="mt-6 text-lg text-muted-foreground max-w-2xl mx-auto">
                 Find answers to your questions and get the support you need to make the most of CardCraft.

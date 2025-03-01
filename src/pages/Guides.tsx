@@ -19,7 +19,7 @@ const Guides = () => {
               transition={{ duration: 0.5 }}
             >
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
-                Comprehensive <span className="text-green dark:text-hunter">Guides</span>
+                Comprehensive <span className="text-green">Guides</span>
               </h1>
               <p className="mt-6 text-lg text-muted-foreground max-w-2xl mx-auto">
                 Learn how to create professional social cards and maximize your digital presence with our detailed guides.

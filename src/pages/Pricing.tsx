@@ -20,7 +20,7 @@ const Pricing = () => {
               transition={{ duration: 0.5 }}
             >
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
-                Simple, Transparent <span className="text-green dark:text-hunter">Pricing</span>
+                Simple, Transparent Pricing
               </h1>
               <p className="mt-6 text-lg text-muted-foreground max-w-2xl mx-auto">
                 Choose the perfect plan for your professional needs. No hidden fees, cancel anytime.
