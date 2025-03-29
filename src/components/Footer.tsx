@@ -129,18 +129,10 @@ export function Footer() {
 
           <div className="mt-12 pt-6 border-t border-border text-center text-sm text-muted-foreground">
             <p>© {new Date().getFullYear()} NexCard. All rights reserved.</p>
+            <p>Build By Zenith Studio</p>
           </div>
         </div>
       </footer>
-      
-      {/* Large Brand Name Below Footer */}
-      <div className="bg-muted/20 py-8">
-        <div className="container mx-auto px-4 flex justify-center">
-          <h2 className="text-[150px] md:text-[200px] font-bold text-black leading-none">
-            NexCard
-          </h2>
-        </div>
-      </div>
     </>
   );
 }
