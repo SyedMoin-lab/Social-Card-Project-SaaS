@@ -18,7 +18,7 @@ const About = () => {
               transition={{ duration: 0.5 }}
             >
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
-                About <span className="text-green dark:text-hunter">CardCraft</span>
+                About <span className="text-green">CardCraft</span>
               </h1>
               <p className="mt-6 text-lg text-muted-foreground max-w-2xl mx-auto">
                 We're on a mission to revolutionize professional networking through beautiful, functional digital business cards.
